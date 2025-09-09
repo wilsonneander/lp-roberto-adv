@@ -1,4 +1,5 @@
 # ⚖️ **Landing Page - Advocacia Previdenciária**
+![lp-roberto](https://github.com/user-attachments/assets/e34c35e4-a8cc-4f8f-9ab4-bd8bd94ba624)
 
 ## 🎯 **Visão Geral**
 Este projeto consiste em uma aplicação de Landing Page para um advogado especializado em advocacia previdenciária.
